@@ -1,4 +1,4 @@
-### Hi there 👋
+### Aspiring Software Engineer, Proffessional Google Searcher :grin:
 
 <!--
 **mpbialoszewski/mpbialoszewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
