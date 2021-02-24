@@ -1,6 +1,8 @@
 ### Aspiring Software Engineer, Professional Google Searcher :grin:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpbialoszewski&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+I am currently on Industry Placement with Ruby on Rails and React which i find pretty ...
+
 ![Alt Text](https://media.giphy.com/media/l0HlCUPEhddvUuGsw/source.gif)
 
 
