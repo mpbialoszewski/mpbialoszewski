@@ -1,7 +1,7 @@
 ### Aspiring Software Engineer, Professional Google Searcher :grin:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpbialoszewski&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[Alt Text](https://giphy.com/gifs/southparkgifs-l0HlCUPEhddvUuGsw)
+![Alt Text](https://giphy.com/gifs/southparkgifs-l0HlCUPEhddvUuGsw)
 
 <!--
 **mpbialoszewski/mpbialoszewski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
