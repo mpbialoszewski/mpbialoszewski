@@ -1,5 +1,5 @@
 ### Aspiring Software Engineer, Professional Google Searcher :grin:
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mpbialoszewski&show_icons=true&count_private=true&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpbialoszewski&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--![Alt Text](https://i.imgur.com/Z4uFtUK.gif)-->
 
