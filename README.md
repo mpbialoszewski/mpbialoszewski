@@ -1,9 +1,11 @@
 ### Aspiring Software Engineer, Professional Google Searcher :grin:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpbialoszewski&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-I am currently on Industry Placement with Ruby on Rails and React which i find pretty ...
+I am currently employed as Data Integration Developer. 
 
-![Alt Text](https://media.giphy.com/media/l0HlCUPEhddvUuGsw/source.gif)
+For any queries, please contact me through my website: www.mpbialoszewski.co.uk
+
+<!-- ![Alt Text](https://media.giphy.com/media/l0HlCUPEhddvUuGsw/source.gif) -->
 
 
 <!--
